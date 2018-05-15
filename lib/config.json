@@ -1,0 +1,30 @@
+{
+  "sentry":{
+    "team":"truck-h5",
+    "organization":"ymm",
+    "baseUrl":"https://sentry.ymm56.com",
+    "Authorization":"Bearer 55e800121b2f488cb3a82419e8f1438f27f8019684154ee38ce36596692404ac"
+  },
+  "project-choices": {
+    "vue2.0-seed-mobile": {
+      "asset": "http://code.ymmoa.com/h5developer/vue2.0-seed-mobile/repository/archive.zip?ref=master",
+      "desc": "基础手机项目 based vue2.0"
+    },
+    "vue-seed-mobile": {
+      "asset": "http://code.ymmoa.com/h5developer/vue-seed-mobile/repository/archive.zip?ref=master",
+      "desc": "基础手机项目"
+    },
+    "vue-seed-pc": {
+      "asset": "http://code.ymmoa.com/h5developer/vue-seed-pc/repository/archive.zip?ref=master",
+      "desc": "基础pc端项目"
+    },
+    "vue-seed-pc-bossAdmin": {
+      "asset": "http://code.ymmoa.com/h5developer/vue-seed-pc/repository/archive.zip?ref=bossAdmin",
+      "desc": "通用接入sso登录的pc后台管理系统"
+    },
+    "node-server-seed": {
+      "asset": "http://code.ymmoa.com/h5developer/node-server-seed/repository/archive.zip?ref=master",
+      "desc": "基础node的服务端项目基础模板"
+    }
+  }
+}
